@@ -1,6 +1,5 @@
 ---
-title: "My Resume"
-name: "Tahmidul Hasnain Zidaan"
+title: "Tahmidul Hasnain Zidaan"
 ---
 
 # Tahmidul Hasnain Zidaan
