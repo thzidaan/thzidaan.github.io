@@ -12,16 +12,16 @@ fast-paced environment while managing competing priorities.
 
 ## Education
 **Bachelors(BSc) in Computer Science**                                                  
-> University of Manitoba  JANUARY  2017 - APRIL  2022  <br/>
+**University of Manitoba**  January  2017 - April  2022  <br/>
 
 
 ## Experience
 **The DTFC** Waterloo,Ontario <br/>
 **Software Engineer**               May 2021 – August 2021
-> * Migrated an Access Database into a WebApp using PostgreSQL and Kotlin including planning the architecture of the application.
-> * Communicated directly with the client for information gathering
+ * Migrated an Access Database into a WebApp using PostgreSQL and Kotlin including planning the architecture of the application.
+ * Communicated directly with the client for information gathering
 and feedback.
-> * Led regular meetings with the project manager to track the progress of thedevelopment.
+ * Led regular meetings with the project manager to track the progress of thedevelopment.
 
 
 ## Skills
