@@ -11,8 +11,8 @@ departmental objectives and goals.Intrinsically motivated and able to excel in a
 fast-paced environment while managing competing priorities.
 
 ## Education
-**Bachelors(BSc) in Computer Science**                                                JANUARY  2017 - APRIL  2022   
-> University of Manitoba <br/>
+**Bachelors(BSc) in Computer Science**                                                  
+> University of Manitoba  JANUARY  2017 - APRIL  2022  <br/>
 
 
 ## Experience
@@ -25,7 +25,15 @@ and feedback.
 
 
 ## Skills
-> Python, SQL, Java, Machine Learning & Natural Language Processing
+> * Java
+> * Python
+> * C and C++
+> * JavaScript
+> * Kotlin
+> * Ruby
+> * SQL
+> * R
+> * HTML & CSS
 
 
 ## Contact
