@@ -4,11 +4,7 @@ title: "Tahmidul Hasnain Zidaan"
 
 
 ## Summary
-An individual who strives for excellence in every aspect of life. A dynamic
-and energetic leader with experience in leading teams in Agile Software Development.
-Able to work equally well as an individual or in a team concept for the exceeding of
-departmental objectives and goals.Intrinsically motivated and able to excel in a
-fast-paced environment while managing competing priorities.
+A person who aspires for perfection in all areas of life. A dynamic and energetic leader with previous experience leading Agile Software Development teams. Ability to work effectively as an individual or as part of a team to achieve departmental objectives and goals. Intrinsically motivated and capable of excelling in a fast-paced atmosphere while handling multiple responsibilities.
 
 ## Education
 **Bachelors(BSc) in Computer Science**                                                  
@@ -25,18 +21,18 @@ and feedback.
 
 
 ## Skills
-> * Java
-> * Python
-> * C and C++
-> * JavaScript
-> * Kotlin
-> * Ruby
-> * SQL
-> * R
-> * HTML & CSS
+ * Java
+ * Python
+ * C and C++
+ * JavaScript
+ * Kotlin
+ * Ruby
+ * SQL
+ * R
+ * HTML & CSS
 
 
 ## Contact
-> **Email:** thzidaan@gmail.com <br/>
-> **Phone:** +1(204)869-4524 <br/>
-> **Address:** 20 Wedgewood Drive
+**Email:** thzidaan@gmail.com <br/>
+**Phone:** +1(204)869-4524 <br/>
+**Address:** 20 Wedgewood Drive
