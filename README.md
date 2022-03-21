@@ -1,5 +1,5 @@
-# Hosting a Markdown-formatted Resume on a Static Website 
---
+# Hosting a Markdown-formatted Resume
+---
 **Purpose:** A step-by-step guide on using Markdown, GitHub Pages, and Jekyll to host a résumé on a static website using the concepts of current technical writing as described in Andrew Etter's book *Modern Technical Writing*.
 
 ## Summary
@@ -11,6 +11,7 @@
 
 
 ## Prerequisites
+---
 
 ### Markdown-Formatted Resume
 Markdown is a simple markup language that can be used in a plain text editor to create styled content.John Gruber and Aaron Swartz created Markdown in 2004 as a markup language with the goal of allowing anyone to write in an easy-to-read and easy-to-write plain text format. 
@@ -36,3 +37,17 @@ Use Jekyll to easily customize your website. Multiple themes are available for y
 
 
 ## Instructions
+---
+
+
+
+## Authors and Acknowledgments
+This document was written by Tahmidul Hasnain Zidaan, using Andrew Etter's book *Modern Technical Writing* as reference.
+
+## FAQ
+
+**Why is my resume not showing up?**  
+> Make sure the file containing your Resume is written in GitHub-Flavored Markdown or GitHub may have trouble to render the content.
+
+**Why is Markdown better than a Word processor?**
+> Markdown allows you to separate the content from style.Using this, you can have consistency in your content and style without having to style while writing.  
