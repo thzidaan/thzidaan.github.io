@@ -1,6 +1,6 @@
 # Hosting a Markdown-formatted Resume
 
-**Purpose:** A step-by-step guide on using Markdown, GitHub Pages, and Jekyll to host a résumé on a static website using the concepts of current technical writing as described in Andrew Etter's book *Modern Technical Writing*.
+**Purpose:** A step-by-step guide on using Markdown, GitHub Pages, and Jekyll to host a résumé on a static website using the concepts as described in Andrew Etter's book *Modern Technical Writing*.
 
 ## Summary
 - [Prerequisites](#prerequisites)
@@ -34,7 +34,7 @@ An account to host your resume is required.
 ### Jekyll
 Use Jekyll to easily customize your website. Multiple themes are available for you to choose from or you can simply add a "_config.yml" file in your repository containing a simple jekyll theme.
 
-In **_config.yml** file
+In **_config.yml-** 
 ```
 theme: jekyll-theme-modernist
 ```
