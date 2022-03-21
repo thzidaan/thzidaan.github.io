@@ -34,7 +34,7 @@ An account to host your resume is required.
 ### Jekyll
 Use Jekyll to easily customize your website. Multiple themes are available for you to choose from or you can simply add a "_config.yml" file in your repository containing a simple jekyll theme.
 
-In **_config.yml-** 
+In **_config.yml** 
 ```
 theme: jekyll-theme-modernist
 ```
