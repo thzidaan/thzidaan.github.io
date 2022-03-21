@@ -15,7 +15,8 @@ A person who aspires for perfection in all areas of life. A dynamic and energeti
 
 
 ## Experience
-**The DTFC** Waterloo,Ontario <br/>
+**The DTFC** <br/>
+Waterloo,Ontario <br/>
 **Software Engineer**               May 2021 – August 2021
  * Migrated an Access Database into a WebApp using PostgreSQL and Kotlin including planning the architecture of the application.
  * Communicated directly with the client for information gathering
