@@ -71,6 +71,8 @@ Markdown is the most widely used lightweight markup language in the world, and t
 
 
 #### Host your Resume using GitHub Pages
+>Static websites are excellent for documentation since they have no dependencies and are easy to deploy, according to Etter in his book *Modern Techinal Writing*. GitHub Pages uses Jekyll to host static sites and even allows you to apply styles to your documentation, known as themes, to make it appear more professional and consistent. 
+
 * Go to your repository and click on settings
 * Find Pages section from the sidebar
 * Make sure that the 'main' branch is chosen as source and Save
