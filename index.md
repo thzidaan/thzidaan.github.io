@@ -2,9 +2,9 @@
 title: "Tahmidul Hasnain Zidaan"
 ---
 
-**Email:** thzidaan@gmail.com <br/>
-**Phone:** +1(204)869-4524 <br/>
-**Address:** 20 Wedgewood Drive
+thzidaan@gmail.com <br/>
++1(204)869-4524 <br/>
+20 Wedgewood Drive, Winnipeg
 
 
 A person who aspires for perfection in all areas of life. A dynamic and energetic leader with previous experience leading Agile Software Development teams. Ability to work effectively as an individual or as part of a team to achieve departmental objectives and goals. Intrinsically motivated and capable of excelling in a fast-paced atmosphere while handling multiple responsibilities.
