@@ -78,10 +78,13 @@ Markdown is the most widely used lightweight markup language in the world, and t
 
 #### Demo 
 Here is a demo of how your resume might look when you visit YourUserName.github.io
+![](Resume.gif)
 
 
-
-
+### More Resources
+* [MarkDown Tutorial](https://www.markdowntutorial.com/)  
+* [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter  
+* [GitHub Pages](https://pages.github.com/)
 
 
 
