@@ -19,11 +19,7 @@ Markdown is a simple markup language that can be used in a plain text editor to 
 >As per Etter's book *Modern Technical Writing*, the use of Lightweight Markup language can be useful and simple while creating a website.
 It makes use of simple syntax and has a minimal learning curve.
 It also allows you to update the information using a regular text editor.
-Markdown is the most widely used lightweight markup language in the world, and there are a number of software tools that may help you get the most out of it, including: 
 
->* [MarkdownPad](http://markdownpad.com/) (Windows)
->* [iA Writer](https://ia.net/writer) (Mac OS)
->* [ReText](https://codepre.com/how-to-install-retext-restructuredtext-editor-in-ubuntu-a-markdown-editor-for-linux.html) (Linux)  
 
 
 
@@ -41,6 +37,51 @@ theme: jekyll-theme-modernist
 
 
 ## Instructions
+
+### Resume 
+Markdown is the most widely used lightweight markup language in the world, and there are a number of software tools that may help you get the most out of it, including: 
+
+>* [MarkdownPad](http://markdownpad.com/) (Windows)
+>* [iA Writer](https://ia.net/writer) (Mac OS)
+>* [ReText](https://codepre.com/how-to-install-retext-restructuredtext-editor-in-ubuntu-a-markdown-editor-for-linux.html) (Linux)  
+
+**Notes** 
+* Please use GitHub-flavored Markdown if you decide to host your resume on GitHub.
+* Save your resume file as "index.md"
+
+### GitHub Account 
+>Etter promotes the use of distributed version control systems (DVCS) like Git and Mercurial over centralised systems in his book *Modern Technical Writing*. Offline work is allowed with these systems, and overall performance is better. It's also a technology that most developers use, so having all of your work, including documentation, in one place is an advantage.
+
+#### Create an Account 
+* Visit [GitHub](https://github.com/)
+* Enter your email and click Sign Up
+* Use the prompts as guide to finish creating your account
+
+#### Create a New Repository 
+* Login to your [GitHub](https://github.com/) account
+* Click on Repositories 
+* Click New Button - **Green Button on the top right of the screen**
+* Name you repository in the following format - YourUserName.github.io
+* Click on Create repository - **Bottom of the screen**
+
+#### Upload your Resume in the repository
+* Click on Add File
+* Click Upload Files
+* Select your resume and make sure the file name is index.md
+
+
+#### Host your Resume using GitHub Pages
+* Go to your repository and click on settings
+* Find Pages section from the sidebar
+* Make sure that the 'main' branch is chosen as source and Save
+* Use the Theme Chooser to choose any theme for your resume
+
+#### Demo 
+Here is a demo of how your resume might look when you visit YourUserName.github.io
+
+
+
+
 
 
 
