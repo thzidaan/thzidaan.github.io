@@ -77,7 +77,7 @@ Markdown is the most widely used lightweight markup language in the world, and t
 4. Use the Theme Chooser to choose any theme for your resume
 
 ### Conclusion 
-Congrats!! If you've followed the steps in this tutorial, you should have a simple-to-update résumé that's been uploaded to GitHub and is available for everyone to view. 
+Congrats!! If you've followed the steps in this tutorial, you should have a simple-to-update résumé that's been uploaded to GitHub and is available for everyone to view. Feel free to contact [me](https://www.linkedin.com/in/tahmidul-hasnain-zidaan-2b973b200/) if you have questions about anything regarding the content. 
 
 This is how your resume might look when you visit *YourUserName*.github.io <br/>
 ![](Resume.gif)
@@ -91,7 +91,7 @@ This is how your resume might look when you visit *YourUserName*.github.io <br/>
 
 
 ## Authors and Acknowledgments
-This document was written by Tahmidul Hasnain Zidaan, using Andrew Etter's book *Modern Technical Writing* as reference.
+This document was written by Tahmidul Hasnain Zidaan, using Andrew Etter's book *Modern Technical Writing* as reference. <br />
 Special thanks to my peers: <br/>
 [Scott Jodoin](https://github.com/scottjodoin) <br/>
 [Kyle Calinisan](https://github.com/kyl-dc) <br/>
@@ -105,3 +105,7 @@ Special thanks to my peers: <br/>
 
 **Why is Markdown better than a Word processor?**
 > Markdown allows you to separate the content from style.Using this, you can have consistency in your content and style without having worry about style while writing.  
+
+
+**Is GitHub necessary to host my resume?**
+>No, a static site can be manually hosted by using a lightweight markup and a theme to a generator like Jekyll or Sphinx.By editing the text and reprocessing everything, the site can be updated. 
