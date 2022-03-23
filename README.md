@@ -26,7 +26,7 @@ An account to host your resume is required.
 **Note -** When hosting markdown files on GitHub Pages, it's important to use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).  
 
 ### Jekyll
-Use Jekyll to easily customize your website. Multiple themes are available for you to choose from or you can simply add a `_config.yml` file in your repository containing a simple jekyll theme.
+Jekyll is a website generator that creates static pages. It creates a static website using text written in your choice markup language and design. You can change the style and feel of the site, as well as the URLs and data displayed on the page. Multiple themes are available for you to choose from or you can simply add a `_config.yml` file in your repository containing a simple jekyll theme as shown below.
 
 In `_config.yml` 
 ```
@@ -77,9 +77,10 @@ Markdown is the most widely used lightweight markup language in the world, and t
 4. Use the Theme Chooser to choose any theme for your resume
 
 ### Conclusion 
-Congrats!! If you've followed the steps in this tutorial, you should have a simple-to-update résumé that's been uploaded to GitHub and is available for everyone to view. Feel free to contact [me](https://www.linkedin.com/in/tahmidul-hasnain-zidaan-2b973b200/) if you have questions about anything regarding the content. 
+Congrats!! If you've followed the steps in this tutorial, you should have a simple-to-update résumé that's been uploaded to GitHub and is available for everyone to view. Feel free to contact [me](https://www.linkedin.com/in/tahmidul-hasnain-zidaan-2b973b200/) if you have questions about anything regarding any of the content. 
 
-This is how your resume might look when you visit *YourUserName*.github.io <br/>
+This is how your resume may look when you visit *YourUserName*.github.io  <br/>
+<br/>
 ![](Resume.gif)
 
 
@@ -93,10 +94,10 @@ This is how your resume might look when you visit *YourUserName*.github.io <br/>
 ## Authors and Acknowledgments
 This document was written by Tahmidul Hasnain Zidaan, using Andrew Etter's book *Modern Technical Writing* as reference. <br /> <br/>
 Special thanks to my peers: <br/>
-        [Scott Jodoin](https://github.com/scottjodoin) <br/>
-        [Kyle Calinisan](https://github.com/kyl-dc) <br/>
-        [Raven Mico Carencia](https://github.com/Leiven) <br/>
-        [Hao Qin](https://github.com/qinh3uofm) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scott Jodoin](https://github.com/scottjodoin) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kyle Calinisan](https://github.com/kyl-dc) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Raven Mico Carencia](https://github.com/Leiven) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hao Qin](https://github.com/qinh3uofm) <br/>
 
 ## FAQ
 
@@ -106,6 +107,8 @@ Special thanks to my peers: <br/>
 **Why is Markdown better than a Word processor?**
 > Markdown allows you to separate the content from style.Using this, you can have consistency in your content and style without having worry about style while writing.  
 
+**Why are the changes I made to my resume not displaying in my static website?**
+> It usually takes a few minutes for GitHub to deploy the changes that you made in your file. Please be patient. Try refreshing the website after a few minutes. 
 
 **Is GitHub necessary to host my resume?**
->No, a static site can be manually hosted by using a lightweight markup and a theme to a generator like Jekyll or Sphinx.By editing the text and reprocessing everything, the site can be updated. 
+> No, a static site can be manually hosted by using a lightweight markup and a theme to a generator like Jekyll or Sphinx.By editing the text and reprocessing everything, the site can be updated. 
