@@ -94,10 +94,10 @@ This is how your resume may look when you visit *YourUserName*.github.io  <br/>
 ## Authors and Acknowledgments
 This document was written by Tahmidul Hasnain Zidaan, using Andrew Etter's book *Modern Technical Writing* as reference. <br /> <br/>
 Special thanks to my peers: <br/>
-&nbsp;&nbsp;&nbsp;[Scott Jodoin](https://github.com/scottjodoin) <br/>
-&nbsp;&nbsp;&nbsp;[Kyle Calinisan](https://github.com/kyl-dc) <br/>
-&nbsp;&nbsp;&nbsp;[Raven Mico Carencia](https://github.com/Leiven) <br/>
-&nbsp;&nbsp;&nbsp;[Hao Qin](https://github.com/qinh3uofm) <br/>
+&nbsp;[Scott Jodoin](https://github.com/scottjodoin) <br/>
+&nbsp;[Kyle Calinisan](https://github.com/kyl-dc) <br/>
+&nbsp;[Raven Mico Carencia](https://github.com/Leiven) <br/>
+&nbsp;[Hao Qin](https://github.com/qinh3uofm) <br/>
 
 ## FAQ
 
