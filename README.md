@@ -44,7 +44,7 @@ Markdown is the most widely used lightweight markup language in the world, and t
 >* [ReText](https://codepre.com/how-to-install-retext-restructuredtext-editor-in-ubuntu-a-markdown-editor-for-linux.html) (Linux)  
 
 **Notes** 
-* Please use GitHub-flavored Markdown if you decide to host your resume on GitHub.
+* Please use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) if you decide to host your resume on GitHub. This version of Markdown has been built specifically to be used with the GitHub infrastructure. Please do not use any other version of Markdown if you plan to publish your resume to GitHub to ensure optimum performance and no rendering issues. 
 * Save your resume file as `index.md`
 
 ### 2. GitHub Account 
@@ -94,10 +94,10 @@ This is how your resume may look when you visit *YourUserName*.github.io  <br/>
 ## Authors and Acknowledgments
 This document was written by Tahmidul Hasnain Zidaan, using Andrew Etter's book *Modern Technical Writing* as reference. <br /> <br/>
 Special thanks to my peers: <br/>
-&nbsp;[Scott Jodoin](https://github.com/scottjodoin) <br/>
-&nbsp;[Kyle Calinisan](https://github.com/kyl-dc) <br/>
-&nbsp;[Raven Mico Carencia](https://github.com/Leiven) <br/>
-&nbsp;[Hao Qin](https://github.com/qinh3uofm) <br/>
+[Scott Jodoin](https://github.com/scottjodoin) <br/>
+[Kyle Calinisan](https://github.com/kyl-dc) <br/>
+[Raven Mico Carencia](https://github.com/Leiven) <br/>
+[Hao Qin](https://github.com/qinh3uofm) <br/>
 
 ## FAQ
 
