@@ -109,6 +109,8 @@ This is how your resume may look when you visit *YourUserName*.github.io  <br/>
 <br/>
 ![](Resume.gif)
 
+I urge you to make a pull request if you want to add or edit any content in this repository.
+
 
 ### More Resources
 * [MarkDown Tutorial](https://www.markdowntutorial.com/)  
