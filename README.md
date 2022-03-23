@@ -22,7 +22,7 @@ Markdown is a simple markup language that can be used in a plain text editor to 
 
 
 ### GitHub Account
-An account to host your resume is required.
+An account to host your resume is required. <br/>
 **Note -** When hosting markdown files on GitHub Pages, it's important to use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).  
 
 ### Jekyll
@@ -50,6 +50,12 @@ Markdown is the most widely used lightweight markup language in the world, and t
 ### 2. GitHub Account 
 >Etter promotes the use of distributed version control systems (DVCS) like Git and Mercurial over centralised systems in his book *Modern Technical Writing*. Offline work is allowed with these systems, and overall performance is better. It's also a technology that most developers use, so having all of your work, including documentation, in one place is an advantage.
 
+#### Install Git
+1. Follow this [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git in your system
+<br />
+This will allow you to version control your local repository as well as connect to and make changes to your online repositories. 
+
+
 #### Create an Account 
 1. Visit [GitHub](https://github.com/)
 2. Enter your email and click Sign Up
@@ -59,14 +65,34 @@ Markdown is the most widely used lightweight markup language in the world, and t
 1. Login to your [GitHub](https://github.com/) account
 2. Click on Repositories 
 3. Click New Button - **Green Button on the top right of the screen**
-4. Name you repository in the following format - YourUserName.github.io
+4. Name you repository in the following format - *YourUserName*.github.io
 5. Click on Create repository - **Bottom of the screen**
 
 #### Upload your Resume in the repository
-1. Click on Add File
-2. Click Upload Files
-3. Select your resume and make sure the file name is `index.md`
+1. Click on **<>Code** section in your repository
+2. Copy the URL provided to you 
+3. Open a terminal or any command line tool to access your directories in your local system
+4. Find a directory to put your files in 
+5. Use the following command to download your online repository to your local system
 
+```
+$ git clone URL
+```
+
+6. Copy your resume into this directory and make sure that it is named as `index.md`
+7. Use the following command to add your file to your online repository
+
+```
+$ git add .
+```
+```
+$ git commit - m "YourMessage(optional)"
+```
+```
+$ git push
+```
+
+Your file should now be uploaded in your online repository successfully.
 
 ### 3. Host your Resume using GitHub Pages
 >Static websites are excellent for documentation since they have no dependencies and are easy to deploy, according to Etter in his book *Modern Techinal Writing*. GitHub Pages uses Jekyll to host static sites and even allows you to apply styles to your documentation, known as themes, to make it appear more professional and consistent. 
@@ -93,7 +119,7 @@ This is how your resume may look when you visit *YourUserName*.github.io  <br/>
 
 ## Authors and Acknowledgments
 This document was written by Tahmidul Hasnain Zidaan, using Andrew Etter's book *Modern Technical Writing* as reference. <br /> <br/>
-Special thanks to my peers: <br/>
+Special thanks to my peers who helped to review this document: <br/>
 [Scott Jodoin](https://github.com/scottjodoin) <br/>
 [Kyle Calinisan](https://github.com/kyl-dc) <br/>
 [Raven Mico Carencia](https://github.com/Leiven) <br/>
