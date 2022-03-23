@@ -69,7 +69,7 @@ This will allow you to version control your local repository as well as connect 
 5. Click on Create repository - **Bottom of the screen**
 
 #### Upload your Resume in the repository
-1. Click on **<>Code** section in your repository
+1. Click on **<>Code** tab in your repository
 2. Copy the URL provided to you 
 3. Open a terminal or any command line tool to access your directories in your local system
 4. Find a directory to put your files in 
@@ -136,5 +136,4 @@ Special thanks to my peers who helped to review this document: <br/>
 **Why are the changes I made to my resume not displaying in my static website?**
 > It usually takes a few minutes for GitHub to deploy the changes that you made in your file. Please be patient. Try refreshing the website after a few minutes. 
 
-**Is GitHub necessary to host my resume?**
-> No, a static site can be manually hosted by using a lightweight markup and a theme to a generator like Jekyll or Sphinx.By editing the text and reprocessing everything, the site can be updated. 
+
